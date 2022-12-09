@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jay! <br/><a href="https://github.com/JayGallegos1">Programmer</a>, <a href="https://www.linkedin.com/in/jay-gallegos/">Cybersecurity Professional</a>
+<h1>Hi, I'm Jay! <br/><a href="https://github.com/JayGallegos1">Programmer</a>, <a href="https://www.linkedin.com/in/jay-gallegos/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/jay-gallegos/">Data Scientist</a>
 <h2>👨‍💻✍️ Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
