@@ -13,7 +13,7 @@
 
 <h2> 🤳 Connect with me:
 
-<a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<a href="https://www.linkedin.com/in/jay-gallegos/">Cybersecurity Professional</a>
  
 
 
